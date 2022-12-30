@@ -1,7 +1,7 @@
 # Command for test
 
 ## Instruction 
-1. Clone the project `git clone https://github.com/Vypsen/categories_tree.git`
+1. Clone the project `git clone https://github.com/vypsen/categories_tree.git`
 2. run `$ docker-compose build`
 3. run `$ docker-compose up -d`
 4. create DB: host = 'localhost', port = 5432, db = 'db', user = 'user', password = 'secret'. And create table in index.sql
